@@ -4,10 +4,12 @@ import logoPadaria from '../../assets/img/logo.png'
 
 export function Header(){
     return (
+        <div>
         <header>
             <img id="logo" src={logoPadaria} alt="" />
-        <NavBar />
         </header>
+        <NavBar />
+        </div>
     )
 }
 
