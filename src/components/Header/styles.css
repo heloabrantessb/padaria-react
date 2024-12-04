@@ -1,0 +1,12 @@
+header{
+    background-color: rgb(198, 105, 150);
+    display: flex;
+    width: 100%;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+#logo{
+    
+    max-width: 150px;
+}
